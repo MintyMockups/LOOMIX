@@ -1,0 +1,36 @@
+NON-PRODUCTION USE LICENSE
+
+This license applies solely to the code in this repository, which is provided for 
+demonstration and educational purposes only.
+
+1. OWNERSHIP AND SCOPE
+----------------------
+The software and associated documentation files (the "Software") are owned by the 
+creator of this repository. This license grants you the right to view, experiment 
+with, and learn from the Software.
+
+2. NON-PRODUCTION USE RESTRICTION
+---------------------------------
+**The Software is NOT licensed for any form of production, commercial, or public use.** 
+This includes, but is not limited to:
+    a) Deploying the application on a website accessible by the public.
+    b) Using the code as a foundation for a product intended for sale or widespread distribution.
+    c) Relying on this application for any critical business or personal data processes.
+    d) Using the placeholder assets (images, audio) for anything other than testing the visual layout.
+
+3. EDUCATIONAL AND EXPERIMENTAL USE
+------------------------------------
+You are explicitly encouraged to modify, extend, and experiment with this Software 
+for personal learning and development in web technologies (HTML, CSS, JavaScript).
+
+4. NO WARRANTY
+---------------
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT 
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION 
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+By using this Software, you acknowledge and agree to these terms, especially the 
+restriction against production use.
